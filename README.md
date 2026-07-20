@@ -1,4 +1,4 @@
-```md
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6C63FF&height=220&section=header&text=Maiar%20Emam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
@@ -192,4 +192,4 @@ A MERN E-Commerce application.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6C63FF&height=140&section=footer"/>
-```
+
